@@ -1,3 +1,3 @@
 name = 'Denis'
 surname = 'Sedlyar'
-ё
+age = 24
